@@ -94,3 +94,16 @@ README.md         Este archivo
 - **5 insights numéricos** sobre la colección.
 - **3 gráficos**: torta por departamento, barras por lugar de origen e histograma del
   año de creación.
+  ## Resultados principales
+
+A partir de las 200 obras analizadas:
+
+1. El conjunto tiene **200 obras** de **117 artistas distintos**.
+2. La artista con más obras es **Georgia O'Keeffe**, con 12 obras.
+3. El departamento con más obras es **Painting and Sculpture of Europe**: 48 obras (24% del total).
+4. El año de creación promedio es **1816**; la obra más antigua es del año **883 a.C.** y la más reciente de **2020**.
+5. **107 obras (53.5%)** son de dominio público y 93 no lo son.
+
+La colección está dominada por el arte europeo y estadounidense: **Estados Unidos** es el
+lugar de origen más frecuente con **80 obras (40%)**, seguido de Francia con 27. El histograma
+muestra que la mayoría de las piezas se crearon entre **1880 y 2000**, con un pico entre 1900 y 1925.
