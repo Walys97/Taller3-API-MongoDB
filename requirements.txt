@@ -1,0 +1,6 @@
+requests>=2.32.0
+pymongo>=4.8.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+notebook>=7.2.0
+ipykernel>=6.29.0
